@@ -1,9 +1,3 @@
-"# AzureResourceManagement-SDK" 
-
-To fetch Azure resource details using the Azure SDK, you can use the ResourceManagementClient from the @azure/arm-resources package. This is the complete code example for getting resource details in a Node.js application.
-
-
-
 # AzureResourceManagement-SDK
 
 Effortlessly fetch and manage Azure resource details using the Azure SDK for Node.js! This project demonstrates how to utilize the `ResourceManagementClient` from the `@azure/arm-resources` package to interact with Azure resources in your subscription.
@@ -17,10 +11,10 @@ Effortlessly fetch and manage Azure resource details using the Azure SDK for Nod
 - An active Azure subscription.
 - Azure CLI installed. Download Azure CLI.
 
-Install Azure SDK dependencies:
-    - npm install @azure/identity @azure/arm-resources
-Set up Azure authentication:
-    - az login
+- Install Azure SDK dependencies:
+    - npm install @azure/identity @azure/arm-resources.
+- Set up Azure authentication:
+    - az login.
 
 ## 🚀 Quick Start
 
