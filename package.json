@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/arm-resources": "^5.2.0",
+    "@azure/identity": "^4.6.0"
+  }
+}
